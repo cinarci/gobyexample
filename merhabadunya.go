@@ -1,4 +1,4 @@
-package ornekler
+package main
 
 import "fmt"
 

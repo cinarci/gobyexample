@@ -1,4 +1,4 @@
-package ornekler
+package main
 
 import "fmt"
 
@@ -15,4 +15,5 @@ func degerler() {
 	fmt.Println(true && false)
 	fmt.Println(true || false)
 	fmt.Println(!true)
+
 }
